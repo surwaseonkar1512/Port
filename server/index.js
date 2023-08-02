@@ -26,7 +26,7 @@ app.use(cors());
 
 app.use(
 	cors({
-		origin:"https://port-rho-woad.vercel.app",
+		origin:"https://port-ud29.vercel.app",
 		credentials:true,
 	})
 )
